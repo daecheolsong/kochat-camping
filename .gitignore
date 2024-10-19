@@ -259,5 +259,8 @@ poetry.toml
 .ruff_cache/
 # LSP config files
 pyrightconfig.json
-
+*.pth
+*.pkl
+*.npy
+*.gensim
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all,python
